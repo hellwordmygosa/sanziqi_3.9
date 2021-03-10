@@ -45,7 +45,7 @@ void Intiboart(char boart[COW][ROL], int cow, int rol)
 //	}
 //	
 //}
-
+//
 
 void displayboart(char boatr[COW][ROL], int cow, int rol)
 {
